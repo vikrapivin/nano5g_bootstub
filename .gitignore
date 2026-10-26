@@ -1,3 +1,5 @@
 src/build/
 __pycache__/
 .venv/
+font/Firmware.MSE
+font/exploit_font.otf
